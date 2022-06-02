@@ -1,4 +1,4 @@
-package PrimeiroPrograma;
+package primeiroPrograma;
 
 public class ex001 {
 
