@@ -153,7 +153,7 @@ public class TelaTriangulo extends JFrame {
 					if (a==b && b==c) {
 						lblTipoTriangulo.setText("Equilátero");
 					} else if (a!=b && b!=c && a!=c) {
-						lblTipoTriangulo.setText("Escaleno");
+						lblTipoTriangulo.setText("Escaleno		");
 					} else {
 						lblTipoTriangulo.setText("Isósceles");
 					}
